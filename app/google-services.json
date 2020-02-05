@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1021979220109",
+    "firebase_url": "https://uploading-21ec8.firebaseio.com",
+    "project_id": "uploading-21ec8",
+    "storage_bucket": "uploading-21ec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021979220109:android:ad6ba1a5739fc302b3aac4",
+        "android_client_info": {
+          "package_name": "com.tollpay.uploading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021979220109-415qem7jr6mnilot0c21ge8tmj95luua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tollpay.uploading",
+            "certificate_hash": "67bd834a81da6436b54fbec652139e456b09ec42"
+          }
+        },
+        {
+          "client_id": "1021979220109-an9fndaeamgip5ru7acnnuc9ipl4epjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOW1Ct1HfXzvOMqrQ-pg7F1kBMDMHx2TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021979220109-an9fndaeamgip5ru7acnnuc9ipl4epjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
